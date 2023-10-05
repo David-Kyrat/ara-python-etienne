@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/usr/bin/dolphin /home/eleve/Echanges
+Icon=folder
+Name=Echanges
+Terminal=false
+Type=Application

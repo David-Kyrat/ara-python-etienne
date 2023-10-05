@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=firefox "http://ge.ch/edufloraopac/jsp/portal/index.jsp?connectionSiteId=36"
+Name=Flora
+Icon=flora
+StartupNotify=false
+Categories=Network;

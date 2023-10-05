@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/usr/bin/dolphin
+Icon=folder-yellow
+Name=Dossier local de eleve
+Terminal=false
+Type=Application

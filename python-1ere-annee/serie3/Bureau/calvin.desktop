@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Network;
+Comment[fr_CH]=
+Comment=
+Encoding=UTF-8
+Exec=firefox "https://edu.ge.ch/secondaire2/calv"
+GenericName[fr_CH]=
+GenericName=
+Icon=calvin
+MimeType=
+Name=Calvin
+Path=
+StartupNotify=false
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
